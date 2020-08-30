@@ -1,4 +1,4 @@
-# 天凤自用自定义SE
+# 天凤自用自定义SE（Fork自[TanakaKotoha/tenhou-se-and-bg](http://baidu.com)，感谢 ありがとう！！！）
 
 ## 使用方法
 
@@ -8,12 +8,14 @@
 
 3、翻页切换至SE设定界面。
 
-4、取消「標準のSE」勾选项，在下面的URL栏里填写：https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/[json文件名（SEA-SEF）].json 
+4、取消「標準のSE」勾选项，在下面的URL栏里填写：https://raw.githubusercontent.com/KiraYo4kage/tenhou-se-and-bg/master/[json文件名（SEA-SEF）].json 
 
 5、调节音量并试听效果后退出回到登录界面。
 
 
 ## 各组SE详细对应一览
+
+SE_SAKI：男——三上千织，女——园城寺怜（八木唯语音太嘲讽了，换个toki的病气风）
 
 SEA：男——藤田佳奈，女——二之宫花
 
